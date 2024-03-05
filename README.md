@@ -1,1 +1,1 @@
-To install the package, simply enter 'go get github.com/cc1358/trimmedmean' in the terminal. Then, create a new Go module without any other files except 
+To install the package, simply enter 'go get github.com/cc1358/trimmedmean' in the terminal. Then, create a new Go module without any other files except trimmedmeanpackageimplementation.go and the pacakge should work with the main() function and deliver results in the same way as what R would deliver in the trimmedmeanimplementation.R
