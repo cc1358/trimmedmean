@@ -1,5 +1,5 @@
 # Generate sample data
-set.seed(123) # for reproducibility
+set.seed(123) 
 integer_sample <- sample(1:1000, 100, replace = TRUE)
 float_sample <- runif(100, min = 1, max = 1000)
 
