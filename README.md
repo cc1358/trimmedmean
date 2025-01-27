@@ -1,4 +1,4 @@
-The complete steps to use this package are quite elementary. 
+Creating my first Go pacakage, nothing too exciting here.....
 
 First, create a new Go module on the terminal with **go mod init projectname** 
 
